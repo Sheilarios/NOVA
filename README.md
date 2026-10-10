@@ -1,4 +1,4 @@
-# Mi Contribución al Proyecto E-commerce Tienda-Nova
+Proyecto E-commerce Tienda-Nova
 ## Sheila Betty Rios Cordova | Frontend Developer
 
 ## Descripción
